@@ -1,4 +1,4 @@
-/*import java.util.Arrays;
+import java.util.Arrays;
 import java.util.Random;
 
 public class ChristmassDraw2 {
@@ -64,4 +64,3 @@ public class ChristmassDraw2 {
         return true;
     }
 }
-*/
