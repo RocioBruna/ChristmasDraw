@@ -1,6 +1,9 @@
 # ChristmasDraw
 JAVA - Coursework 1
 
+ChristmassDraw2.java --> Initial code done last year. Didn't meet all requirements.
+XmasDraw3.java --> Code done this year. Meets all requirements.
+
 
 1- This exercise allows students to practise and use their knowledge of arrays and
 conditionals and iterations, loops to solve the given problem.
