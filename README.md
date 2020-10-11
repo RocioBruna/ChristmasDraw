@@ -5,6 +5,8 @@ ChristmassDraw2.java --> Initial code done last year. Didn't meet all requiremen
 
 XmasDraw3.java --> Code done this year. Meets all requirements.
 
+Potential: Has the potential to make Christmas a little more interesting (and affordable) for someone and their family.
+
 
 1- This exercise allows students to practise and use their knowledge of arrays and
 conditionals and iterations, loops to solve the given problem.
